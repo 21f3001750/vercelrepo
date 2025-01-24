@@ -18,7 +18,7 @@ def getMarks(l,name):
            
     return d
 
-print(getMarks(json_obj,'QoZzVHy'))
+
 
 
 class handler(BaseHTTPRequestHandler):
